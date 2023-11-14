@@ -1,0 +1,11 @@
+Model Information:
+* title:	McDonald's 6-Piece McNuggets Box
+* source:	https://sketchfab.com/3d-models/mcdonalds-6-piece-mcnuggets-box-a15dfe55dd964f728050a0c1aeab6447
+* author:	MacDrawz (https://sketchfab.com/MacDrawz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McDonald's 6-Piece McNuggets Box" (https://sketchfab.com/3d-models/mcdonalds-6-piece-mcnuggets-box-a15dfe55dd964f728050a0c1aeab6447) by MacDrawz (https://sketchfab.com/MacDrawz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
