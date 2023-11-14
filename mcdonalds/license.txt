@@ -1,0 +1,11 @@
+Model Information:
+* title:	MCDONALDS
+* source:	https://sketchfab.com/3d-models/mcdonalds-e05ea12cf5bc4d26b03c4bca95819a98
+* author:	kean.com (https://sketchfab.com/kean.com)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MCDONALDS" (https://sketchfab.com/3d-models/mcdonalds-e05ea12cf5bc4d26b03c4bca95819a98) by kean.com (https://sketchfab.com/kean.com) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
