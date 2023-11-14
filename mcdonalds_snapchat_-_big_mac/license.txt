@@ -1,0 +1,11 @@
+Model Information:
+* title:	McDonald's Snapchat - Big Mac
+* source:	https://sketchfab.com/3d-models/mcdonalds-snapchat-big-mac-d45531e6ef9d40e2ba8445d0ff3a19b7
+* author:	chrishaines (https://sketchfab.com/chrishaines)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McDonald's Snapchat - Big Mac" (https://sketchfab.com/3d-models/mcdonalds-snapchat-big-mac-d45531e6ef9d40e2ba8445d0ff3a19b7) by chrishaines (https://sketchfab.com/chrishaines) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
