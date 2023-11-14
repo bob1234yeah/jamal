@@ -1,0 +1,11 @@
+Model Information:
+* title:	Starry Night Diamond Painting
+* source:	https://sketchfab.com/3d-models/starry-night-diamond-painting-a1ce7de04d614446902f513e7d5d34c5
+* author:	cs-boy (https://sketchfab.com/cs-boy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Starry Night Diamond Painting" (https://sketchfab.com/3d-models/starry-night-diamond-painting-a1ce7de04d614446902f513e7d5d34c5) by cs-boy (https://sketchfab.com/cs-boy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
